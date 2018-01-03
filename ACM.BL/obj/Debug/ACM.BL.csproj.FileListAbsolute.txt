@@ -1,0 +1,5 @@
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

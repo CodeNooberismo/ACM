@@ -1,0 +1,8 @@
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+D:\1_Work\4_Programming Tutorials Projects\C#\1_Acads\OOP_ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
